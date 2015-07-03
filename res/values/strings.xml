@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab05</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="array_ufs">
+        <item >Acre</item>
+        <item >Amazonas</item>
+        <item >Ceará</item>
+        <item >Espirito Santos</item>
+        <item >Minas Gerais</item>
+        <item >Rio Grande do Sul</item>
+        <item >Rio de Janeiro</item>
+        <item >São Paulo</item>
+        <item >Santa Catarina</item>
+        <item >Paraná</item>
+    </string-array>
+    <string name="nome">Nome Completo</string>
+    <string name="email">Email</string>
+    <string name="idade">Idade</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="atualiza_auto">Atualizações Automáticas?</string>
+    <string name="aceito">Aceito os termos da aplicação</string>
+
+</resources>
